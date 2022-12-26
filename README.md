@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sateeshsai
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in mostly full stack development
+- 🌱 I’m currently learning advanced JS concepts
 - 💞️ I’m looking to collaborate on all kinds of neat things
-- 📫 How to reach me: sateesh.bharti@gmail.com
+- 📫 How to reach me: sateesh.modukuru@gmail.com
 
 <!---
 sateeshsai/sateeshsai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
